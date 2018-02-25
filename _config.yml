@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 
 # Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "追时间的蚂蚁"
 title_separator          : "-"
 name                     : "Yanyang Liuqu"
