@@ -16,7 +16,7 @@ title                    : "追时间的蚂蚁"
 title_separator          : "-"
 name                     : "Yanyang Liuqu"
 description              : "As a body everyone is single, as a soul never."
-url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  yyliuqu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png"
@@ -36,7 +36,7 @@ comments:
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
-  commitMessage          : # "New comment."
+  commitMessage          :  "新评论."
   filename               : # comment-{@timestamp}
   format                 : # "yml"
   moderation             : # true
@@ -55,8 +55,8 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia
+search_full_content      : true  #false (default)
+search_provider          : lunr(default), algolia
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
