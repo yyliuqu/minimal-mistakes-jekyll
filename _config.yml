@@ -97,10 +97,10 @@ analytics:
 author:
   name             : "Yanyang Liuqu"
   avatar           : "/assets/img/author-photo.jpg"
-  bio              : "Creator/Life-long Learner"
+  bio              : "Internet Professional/Health Coach/Life Traveler "
   location         : "Hangzhou, China"
   email            : "34313266@qq.com"
-  uri              : yyliuqu.github.io
+  uri              : "yyliuqu.github.io"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
